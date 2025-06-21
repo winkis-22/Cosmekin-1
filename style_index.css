@@ -27,7 +27,7 @@ main{
 footer{
     background: rgba(0, 0, 0, 0.8);
     text-align: center;
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
     color: #F5F5F5;
